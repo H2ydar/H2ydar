@@ -1,27 +1,37 @@
-# Hi there, I'm H2ydar! 👋
+Hi there, I'm Mehdi Haidar! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in open-source projects and innovative technologies.
+Welcome to my GitHub profile! I'm a passionate Developer & 3D Designer with a strong interest in game development, XR (VR/AR/MR), and immersive technologies. I enjoy blending code and creativity to build interactive experiences that tell stories.
 
-## About Me
+About Me
 
-- **Profession:** Software Developer
-- **Interests:** Open-source contributions, AI and Machine Learning, Web Development, Blockchain Technology
-- **Technologies I Work With:** Python, JavaScript, React, Node.js, TensorFlow, Solidity
+Profession: Developer & 3D Designer
 
-## Featured Projects
+Interests: Game Development, XR (VR/AR), 3D Art & Design, Metaverse Technologies, Interactive Experiences
 
-Here are some of the projects I'm proud to showcase:
+Technologies I Work With: Unity (C#), Blender, Unreal Engine (basics), Python, Web (HTML/CSS/JS), Adobe Suite (Photoshop, Illustrator, After Effects)
 
-- [**Project A**](https://github.com/H2ydar/project-a): A web application built with React and Node.js.
-- [**Project B**](https://github.com/H2ydar/project-b): A machine learning model using TensorFlow.
-- [**Project C**](https://github.com/H2ydar/project-c): A blockchain-based decentralized application.
+Featured Projects
 
-## Get in Touch
+Here are some of the projects I’m proud to showcase:
 
-Feel free to reach out to me for collaboration or just to say hi!
+Eden: Chronicles of the Fallen
+: A 2.5D action-platformer game inspired by retro classics, featuring fast-paced combat and unique ghost recall mechanics.
 
-- **Email:** h2ydar@example.com
-- **LinkedIn:** [H2ydar](https://www.linkedin.com/in/h2ydar)
-- **Twitter:** [@H2ydar](https://twitter.com/H2ydar)
+Virtual Art Gallery
+: A VR project that allows users to explore prehistoric art and cultural history through immersive environments.
 
-Thanks for visiting my profile!
+Epicfuze Agency 3D Scene
+: A creative visualization of my agency, showcasing how design, CGI, and development come together inside a virtual camera world.
+
+Get in Touch
+
+I’m always open to collaboration, whether it’s on games, VR apps, or 3D design projects. Let’s connect!
+
+Email: mizehyder@example.com
+
+Portfolio: https://www.behance.net/mehdihaidar
+
+LinkedIn: https://www.linkedin.com/in/mehdi-haidar-951098256/
+
+
+Thanks for stopping by and checking out my work! 🎮✨
